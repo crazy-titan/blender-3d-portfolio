@@ -9,6 +9,24 @@ A collection of 3D models created using **Blender**, focusing on product visuali
 
 - Product visualization with realistic materials and lighting  
 - Rendered using Blender (Cycles / Eevee)  
+- 📈 Achieved **35+ downloads** on CGTrader  
+🔗 [View on CGTrader](https://www.cgtrader.com/free-3d-models/scanned/various/perfumes-for-electrical-students)
+
+---
+
+### Donut (Blender Practice)
+[![Donut Model](Donut/donut_final.png)](Donut)
+
+- Procedural shading and texture work  
+- Lighting and camera composition  
+[Watch Render Video](Donut/donut-2.mp4)
+
+---
+
+### 🧊 Cube (Modeling & Materials Study)
+
+- Fundamental modeling and material experimentation    
+[Watch Render Video](Cube/cycle.mp4)
 
 ---
 
